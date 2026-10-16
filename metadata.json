@@ -1,0 +1,6 @@
+{
+  "name": "Müzik Dükkanım - Enes Öztürk",
+  "description": "Enes Öztürk imzalı, Bootstrap ile tasarlanmış zengin müzik aletleri satış platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
